@@ -1,0 +1,33 @@
+.heading{
+	
+	color: navy;
+/*	font-family: AR Darling;*/
+	font-family: Lucida Bright;
+	font-weight: bold;
+	
+    
+    
+}
+
+#head,#end{
+	height: 80px;
+	margin-top:0px;
+}
+.nav-link{
+	color: white;
+}
+nav { 
+	
+	background: #FF0000;
+	
+	}
+	
+.aside {  /* this is the designated 'Sidebar' */
+	background: #F5F5DC;
+	color: 	#00008B;
+	font-size:12px;
+	font-family: aktiv-grotesk-std,helvetica,arial,sans-serif;
+     
+	height:100%;
+	border-right: 1px solid #CACACA;
+	}
